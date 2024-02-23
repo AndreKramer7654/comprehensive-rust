@@ -233,6 +233,7 @@ use-boolean-and = true
 'unsafe/extern-functions.html' = '../unsafe-rust/unsafe-functions.html'
 'unsafe/unsafe-traits.html' = '../unsafe-rust/unsafe-traits.html'
 'exercises/day-3/safe-ffi-wrapper.html' = '../../unsafe-rust/exercise.html'
+'tuples-and-arrays/match.html' = '../pattern-matching/match.html'
 
 [output.exerciser]
 output-directory = "comprehensive-rust-exercises"
