@@ -5,12 +5,12 @@ minutes: 3
 # Arithmetic
 
 ```rust,editable
-fn interproduct(a: i32, b: i32, c: i32) -> i32 {
+fn innerProduct(a: i32, b: i32, c: i32) -> i32 {
     return a * b + b * c + c * a;
 }
 
 fn main() {
-    println!("result: {}", interproduct(120, 100, 248));
+    println!("result: {}", innerProduct(120, 100, 248));
 }
 ```
 
